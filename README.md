@@ -1,6 +1,6 @@
 ## Cadastro de Produtos 📱
 
-### projeto o qual permite o usuário adicionar um produto no sistema deixando o mesmo público para todos que acessam o site. esse produto pode ser apagado ou ter suas informações alteradas por qualquer um que desejar
+### frontend do projeto o qual permite o usuário adicionar um produto no sistema deixando o mesmo público para todos que acessam o site. esse produto pode ser apagado ou ter suas informações alteradas por qualquer um que desejar
 ## Algumas Telas Da Aplicação
 ![1](https://user-images.githubusercontent.com/92438875/206563116-48d7862d-f203-4802-abbc-575b96be1328.png)
 ![2](https://user-images.githubusercontent.com/92438875/206563159-47be59b0-6373-4cf2-b4cb-aac940037449.png)
