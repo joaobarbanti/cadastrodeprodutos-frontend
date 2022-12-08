@@ -1,0 +1,63 @@
+.container{
+
+display: flex;
+justify-content: center;
+align-items: center;
+background: #caa;
+height: 100vh;
+text-align: center;
+
+}
+.child{
+
+display: flex;
+justify-content: center;
+align-items: center;
+width: 2000px;
+height: 200px;
+background-color: #ccc;
+
+
+}
+.text{
+background-color: #caa;
+font-family: monospace;
+font-size: 40px;
+
+}
+.containerproducts{
+    position: relative;
+    display: flex;
+    justify-content: center;
+    background: #caa;
+    height: 100vh;
+    text-align: center;
+    
+    }
+.header{
+
+font-size: 9vh;
+text-shadow: 2px 2px 2px black;
+
+}
+.addblock{
+
+position: absolute;
+left: 75%;
+top: 15%;
+
+
+}
+.Add{
+
+font-size: 2vh;
+font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+
+
+}
+.link{
+
+text-decoration: none;
+color: red;
+
+}

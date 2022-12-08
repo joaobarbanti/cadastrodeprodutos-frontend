@@ -1,0 +1,36 @@
+.card{
+
+position: relative;
+
+}
+.add{
+
+  position: absolute;
+  left: 80%;
+  top: 5%;
+    font-size: 2vh;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    
+    
+
+
+
+}
+
+.form-control{
+
+border-radius: 300px;
+
+
+}
+@media screen and (max-width: 1000px) {
+  .add {
+    position: absolute;
+    left: 53%;
+    top: 5%;
+      font-size: 2vh;
+      font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+      ;
+  }
+ 
+}
